@@ -6,3 +6,4 @@ Initializing model...
 Model initialization complete.
 Training START
 write over
+Hello world!
